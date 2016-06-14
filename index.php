@@ -16,7 +16,7 @@ and open the template in the editor.
             <input type="text" name="a" class="tamanho">x²+
             <input type="text" name="b" class="tamanho">x+
             <input type="text" name="c" class="tamanho"> = 0 <br>
-            <input type="submit" name="Calcuar">
+            <input type="submit" name="Calcular">
         </form>
     </body>
 </html>
