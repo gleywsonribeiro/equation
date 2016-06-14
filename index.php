@@ -12,7 +12,7 @@ and open the template in the editor.
     </head>
     <body>
         <form class="enjoy-css" name="foumulario" action="equation.php" method="POST">
-            <h2>Equação de 2º</h2>
+            <h2>Equação de 2º grau</h2>
             <input type="text" name="a" class="tamanho">x²+
             <input type="text" name="b" class="tamanho">x+
             <input type="text" name="c" class="tamanho"> = 0 <br>
